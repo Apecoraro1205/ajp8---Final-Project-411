@@ -1,10 +1,12 @@
 # ajp8---Final-Project-411
 Final Project for IT 411 - Created a body mass index using JavaScript and jQuery
 http://127.0.0.1:58245/p8_1/index1.html
+
 IT 411/Scripting for Interactive Systems
 Sftwear Statement of Work (SOW)
 Project 8
 See D2L for due date.
+
 Instructions
 Name the single folder for this project p8_1 even though there is only one part.
 When submitting this project, zip all the folders for this project into a .zip file name project_8.zip.
